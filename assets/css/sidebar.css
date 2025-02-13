@@ -12,7 +12,6 @@ main {
 	padding: 15px;
 }
 
-/* Sidebar Styling */
 #sidebar {
 	height: 100%;
 	width: 230px;
@@ -39,13 +38,11 @@ main {
 	color: #ddd;
 }
 
-/* Hide Sidebar */
 .sidebar-hide {
 	width: 0px !important;
 	overflow: hidden;
 }
 
-/* Sidebar Navigation */
 #sidebar ul {
 	list-style-type: none;
 	padding: 0;
@@ -87,7 +84,6 @@ main {
 	transition: all 0.3s ease-in-out;
 }
 
-/* Smooth Scrollbar */
 #sidebar::-webkit-scrollbar {
 	width: 6px;
 }
