@@ -147,6 +147,12 @@ header .navbar-toggler:focus {
   background-color: #1fa64e;
 }
 
+.gg {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 @keyframes moveLeft {
   from {
     right: -100px;
